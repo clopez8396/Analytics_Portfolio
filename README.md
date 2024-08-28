@@ -58,4 +58,6 @@ Excel: Utilized for creating dynamic dashboards derived from functions, formulas
   
 * Charts and Visualizations: The dashboards include various types of charts, such as KPIs, bar charts, line charts, tables, and heatmaps, to present data effectively.
 
+* Pivot Tables - Along with manually created tables, this projects also shows a pivot table version of the tables used to create the visualization on the dashboards.
+
 
