@@ -1,0 +1,20 @@
+Power BI Dashboard Overview: Adventure Works Dataset
+
+I have developed a suite of interactive dashboards using the Adventure Works dataset, designed to provide comprehensive insights into business performance. These dashboards leverage Power BI's capabilities to visualize key metrics, enabling data-driven decision-making.
+
+Executive Dashboard
+
+Purpose: Summarizes high-level performance metrics, such as total sales, total profit, total orders, and return rate.
+Features: Static KPIs, and charts showing revenue trends, top orders, and orders per product category.
+
+Map Dashboard
+Purpose: Geographically visualizes sale performance and distribution.
+Features: Displays sales data by region, pinpointing total orders sold by country. Includes interactive map layers for detailed drill-downs.
+
+Customer Details Dashboard
+Purpose: Focuses on customer demographics.
+Features: Analyzes customer segmentation by income level and occupation, Top 100 Customer number of orders and how much they spend, along with displaying top overall customer by revenue.
+
+Product Details Dashboard
+Purpose: Examines product-level performance
+Features: Includes metrics like monthly orders vs target, monthly revenue vs target, and monthly profit vs target. Along with visualizations of metric of users choosing (order, revenue, profit, returns, return percentage).
